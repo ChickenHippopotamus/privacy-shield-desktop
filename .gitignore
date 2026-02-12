@@ -1,0 +1,10 @@
+# Node.js
+node_modules/
+
+# Electron
+*.asar
+*.exe
+*.dmg
+*.app
+*.log
+*.tmp
